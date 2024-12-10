@@ -4,7 +4,7 @@ My name is Benoît Joseph Clotaire Edouard LEVEUGLE (I don't know why we have so
 
 I live in France, with my family 🌱, near the Atlantic Ocean, in a small city called Auray. We are an international family, my spouse being Lebanon.
 
-![image](https://github.com/user-attachments/assets/5632ff7e-08f8-48d8-b9b2-452537aa9d1c)
+![image](https://github.com/user-attachments/assets/d6c648ea-0b1e-4d61-bed7-2c981b11dd93)
 
 I currently work for Nimbix, as a swiss knife developer/system administrator (bare metal and k8s) in High Performance Computing.
 
