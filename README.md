@@ -6,7 +6,7 @@ I live with my family 🌱 near the Atlantic Ocean, in a small city called Auray
 
 I currently work for Nimbix, a US team, as a swiss knife developer/system administrator (bare metal and k8s) in High Performance Computing.
 
-In my free time, I work on the BlueBanquise stack project (github.com/bluebanquise/bluebanquise), in the hope it can help others.
+In my free time, I work on the [BlueBanquise stack project](https://github.com/bluebanquise/bluebanquise), in the hope it can help others.
 
 You can reach me at oxedions@gmail.com 📫, please do not hesitate 😊
 
